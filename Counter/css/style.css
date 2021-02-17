@@ -1,0 +1,18 @@
+body {
+	margin:0;
+	padding:0;
+	background: linear-gradient(to right, #093028, #237A57);
+	color: white;
+}
+.main {
+	margin-top: 13%;
+	margin-left: 43%;
+}
+.main .h1 {
+	margin-left: 20px;
+	font-size: 55px;
+}
+.main h1 {
+	font-size: 60px;
+	margin-left: 107px;
+}
